@@ -1,0 +1,31 @@
+<?php
+echo "Create a list of the 10 most important concepts about what you’ve learned in this  document";
+echo "<br>";
+echo "1-edit pages";
+echo "<br>";
+echo "2-delete pages";
+echo "<br>";
+echo "3-Post";
+echo "<br>";
+echo "4-input";
+echo "<br>";
+echo "5-case";
+echo "<br>";
+echo "6-break";
+echo "<br>";
+echo "7-switch";
+echo "<br>";
+echo "8-trim";
+echo "<br>";
+echo "9-error";
+echo "<br>";
+echo "10-type";
+echo "<br>";
+echo "Qualifies the document:8";
+echo "<br>";
+echo "Teacher's explanation:9";
+echo "<br>";
+echo "Explain an improvement";
+echo "<br>";
+echo "La practica la he podido acabar en classe y eso se agradece";
+?>
